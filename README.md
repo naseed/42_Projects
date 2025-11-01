@@ -5,11 +5,11 @@ This README provides quick access to the main parts of the project.
 
 ---
 
-## 📚 Table of Projects
+##  Table of Projects
 
 | Project | Description | Repo Link |
 |----------|--------------|------|
-| 📚libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft) |
+| 01 - libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft) |
 | More Project in the way.... |  |  |
 
 ---
