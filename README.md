@@ -9,7 +9,7 @@ This README provides quick access to the main parts of the project.
 
 | Project | Description | Repo Link |
 |----------|--------------|------|
-| 🕮libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft) |
+| 📚libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft) |
 | More Project in the way.... |  |  |
 
 ---
