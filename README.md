@@ -1,16 +1,16 @@
 # 🚀 My Awesome Project
 
-Welcome to **My Awesome Project**!  
+Welcome to **My 42_Projects**!  
 This README provides quick access to the main parts of the project.
 
 ---
 
-## 📚 Table of Contents
+## 📚 Table of Projects
 
-| Section | Description | Link |
+| Project | Description | Repo Link |
 |----------|--------------|------|
-| 🏠 Home | Overview and introduction | [Go to Home](./home.md) |
-| ⚙️ Installation | How to install and run the project | [View Installation](./installation.md) |
+| libft| Create your own static library with ur own function  | [git@github.com:naseed/libft.git](./home.md) |
+| ...More Project in the way |  | [](./installation.md) |
 | 📘 Usage | Learn how to use the project | [See Usage](./usage.md) |
 | 🧩 API Reference | Details about the API endpoints | [API Docs](./api.md) |
 | 🧠 Contributing | Guidelines for contributing | [Contribute Here](./CONTRIBUTING.md) |
