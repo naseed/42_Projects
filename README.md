@@ -9,21 +9,16 @@ This README provides quick access to the main parts of the project.
 
 | Project | Description | Repo Link |
 |----------|--------------|------|
-| libft| Create your own static library with ur own function  | [git@github.com:naseed/libft.git](./home.md) |
+| libft| Create your own static library with ur own function  | [https://github.com/naseed/libft](./home.md) |
 | ...More Project in the way |  | [](./installation.md) |
-| 📘 Usage | Learn how to use the project | [See Usage](./usage.md) |
-| 🧩 API Reference | Details about the API endpoints | [API Docs](./api.md) |
-| 🧠 Contributing | Guidelines for contributing | [Contribute Here](./CONTRIBUTING.md) |
-| 📄 License | Project license details | [View License](./LICENSE) |
 
 ---
 
 ## 📝 About
 
-This project aims to **simplify and accelerate** your workflow.  
-Feel free to explore the sections above and contribute!
-
+This repo aims to remind me of my old Project (Just Me !!!!)
+Feel free to see my project but be careful for the curse of Ctrl + C AND Ctrl + V (HAHAHAHHA 😈)!
 ---
 
-© 2025 My Awesome Project. All rights reserved.
+© 2025 Copyright . Made in Morocco by NcR-09 .
 
