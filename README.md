@@ -10,6 +10,7 @@ This README provides quick access to the main parts of the project.
 | Project | Description | Repo Link |
 |----------|--------------|------|
 | 01 - libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft) |
+| 02 - ft_printf | Reproduce the famous fuction printf with the same behavior | [LINK...](https://github.com/naseed/ft_Printf)| 
 | More Project in the way.... |  |  |
 
 ---
