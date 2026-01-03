@@ -12,6 +12,7 @@ This README provides quick access to the main parts of the project.
 | 01 - libft| Create your own static library with ur own function  | [LINK..](https://github.com/naseed/libft)|
 | 02 - ft_printf | Reproduce the famous fuction printf with the same behavior | [LINK...](https://github.com/naseed/ft_Printf)| 
 | 03 - get_next_line| create get_next_line function that return the next line in a file its a project that introduce us to the world of files |[LINK...](https://github.com/naseed/get_next_line)|
+| 04 - push_swap | sort a stack of number with some specific operations using an optimize algorithm  |[LINK...](https://github.com/naseed/push_swap)|
 | More Project in the way.... |  |  |
 
 ---
